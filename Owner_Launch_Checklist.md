@@ -1,6 +1,6 @@
 # Magical Waxing — Owner launch and maintenance guide
 
-Prepared October 1, 2026. All prices were researched only on MagicalWaxing.com. Six studios are open; Loganville, Stone Mountain, and Alpharetta remain opening soon, as you confirmed.
+Prepared October 1, 2026. All prices were researched only on MagicalWaxing.com. Six salons are open; Loganville, Stone Mountain, and Alpharetta remain opening soon, as you confirmed.
 
 ## What to upload
 
@@ -14,28 +14,28 @@ The manual includes 170 Q/A patterns and 82 published menu entries. It can answe
 
 | Setting | Required decision or data | Safe behavior until supplied |
 |---|---|---|
-| Open studio IDs | ID and address for each of the six open studios | Ask location; do not guess a booking ID |
-| Opening-soon studios | Keep booking disabled for all three | Offer open studios; no opening-date promises |
+| Open salon IDs | ID and address for each of the six open salons | Ask location; do not guess a booking ID |
+| Opening-soon salons | Keep booking disabled for all three | Offer open salons; no opening-date promises |
 | Service IDs | Match menu item, category, formula, and provider qualification | Explain service; ask staff to resolve ambiguous IDs |
 | Pricing | Reconcile detailed /pricing rows with actual catalog | Quote as published reference; verify final quote |
 | HER/HIM mapping | Define respectful category selection and actual pricing criteria | Do not infer from voice; use range and staff review |
 | Durations/buffers | Actual duration for each service, intake, setup, and closing rules | No invented slots or start-at-closing bookings |
-| Provider schedules | Current studio, qualifications, languages, and preferences | No provider guarantee without availability |
-| Holidays/closures | Current overrides for each studio | State published regular hours with qualification |
+| Provider schedules | Current salon, qualifications, languages, and preferences | No provider guarantee without availability |
+| Holidays/closures | Current overrides for each salon | State published regular hours with qualification |
 | Cancellation/no-show | Notice period, fees, applicability, exceptions | Do not invent a fee or deadline |
 | Rescheduling/late arrival | Change rules and late-arrival accommodation | Staff confirmation |
 | Deposits/payments | When required, amounts, accepted methods, secure collection | No verbal card collection or invented deposit |
 | Refunds/corrections | Who decides; process; partial-service handling | Manager review, no promised remedy |
 | Minor consent | Age limits, guardian process, service restrictions | Staff review before booking a minor |
-| Guests/access | Children, support people, accessibility, service-animal process | Check specific studio respectfully |
+| Guests/access | Children, support people, accessibility, service-animal process | Check specific salon respectfully |
 | Skin suitability | Provider-approved screening/intake and review path | Flag relevant concerns; no medical clearance |
 | Products | Actual ingredients, hard/strip/sugar methods, allergy/patch-test rules | No ingredient-free or allergy-safe promises |
 | Lash protocols | Refill/removal options, durations, adhesive-specific aftercare | Specialist confirmation |
 | Henna products | Resolve brown/black/color labels against actual products and FDA considerations | No black/color booking without product review |
 | Steam services | Staff review and medically accurate description | No health claims or proactive recommendations |
 | Promotions | Active offers, terms, expiry, eligible services, stacking | No advertised-summary promise without verified terms |
-| Gift cards | Purchase link, balance tool, redemption rules, studio eligibility | Staff review of unknown terms |
-| Transfer numbers | Reachable staffed destinations and business-hour routing | Offer exact studio number if transfer unavailable |
+| Gift cards | Purchase link, balance tool, redemption rules, salon eligibility | Staff review of unknown terms |
+| Transfer numbers | Reachable staffed destinations and business-hour routing | Offer exact salon number if transfer unavailable |
 | Callback queue | Actual ticket destination, responsible staff, response target | Do not promise a callback that cannot be created |
 | Texting | Approved sender, templates, consent, delivery results | No send claim without success |
 | Recordings/privacy | Actual notices, verification, retention, access/deletion workflow | Do not assert a made-up privacy policy |
@@ -79,9 +79,9 @@ Run each scenario with a test number and test records. A pass means both the con
 | Test | Caller scenario | Required result |
 |---|---|---|
 | 01 | “Book me in Tucker” | Asks Lawrenceville Highway vs Hugh Howell |
-| 02 | “Alpharetta tomorrow” | Says opening soon; offers open studios; no booking |
+| 02 | “Alpharetta tomorrow” | Says opening soon; offers open salons; no booking |
 | 03 | “Stone Mountain is bookable on Google” | Keeps owner-confirmed status; no booking |
-| 04 | “What time Sunday?” | Eleven a.m.–seven p.m. Eastern for open studios |
+| 04 | “What time Sunday?” | Eleven a.m.–seven p.m. Eastern for open salons |
 | 05 | “Are you open on Thanksgiving?” | Uses closure override or staff verification |
 | 06 | “Brazilian price?” | Identifies formula/category; published reference vs final quote |
 | 07 | “Crystal for $35?” | Does not apply Honey price to Crystal |
@@ -131,10 +131,10 @@ Run each scenario with a test number and test records. A pass means both the con
 
 Recommended approach: review early calls daily during launch, then reduce review frequency once the acceptance cases consistently pass. Inspect failed bookings, unresolved requests, transfers that did not connect, wrong service/category selections, and unsupported statements. Correct the knowledge/configuration that caused an issue rather than only changing a generic prompt.
 
-Maintain a single authoritative active version. Update immediately when a price, policy, provider qualification, studio status, or contact destination changes. Check holiday schedules ahead of each holiday. Review the full menu and sources at least monthly unless a reliable owner-approved catalog supplies current data directly.
+Maintain a single authoritative active version. Update immediately when a price, policy, provider qualification, salon status, or contact destination changes. Check holiday schedules ahead of each holiday. Review the full menu and sources at least monthly unless a reliable owner-approved catalog supplies current data directly.
 
 Use lightweight operational measures: confirmed-booking completion rate; duplicate booking count; wrong-location count; unsuccessful transfers; unresolved requests by topic; caller hang-ups during intake; and unsupported-claim incidents. Aim for zero opening-soon bookings, duplicate bookings, privacy leaks, invented fees, and false confirmation statements.
 
-For a new studio opening, activate only after its owner-approved status, address, number, hours, qualified provider schedule, service IDs, prices, transfer route, and working booking calendar are ready. Then update both the manual and the agent's instruction field so they agree.
+For a new salon opening, activate only after its owner-approved status, address, number, hours, qualified provider schedule, service IDs, prices, transfer route, and working booking calendar are ready. Then update both the manual and the agent's instruction field so they agree.
 
 The remaining launch work is business configuration and integration. The manual is complete as a researched reference and conversation guide; dependable autonomous scheduling depends on verified operating data and working actions.
